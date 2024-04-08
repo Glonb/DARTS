@@ -127,4 +127,4 @@ DARTS_MINE = Genotype(
     reduce_concat=range(2, 6)
 )
 
-DARTS = DARTS_MINE
+DARTS = DARTS_V2
